@@ -1,0 +1,26 @@
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.AssemblyInfo.cs
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.exe
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.deps.json
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.runtimeconfig.json
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.runtimeconfig.dev.json
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.dll
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.pdb
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.dll
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.pdb
+C:\Users\wesle\Desktop\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.genruntimeconfig.cache
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.exe
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.deps.json
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.runtimeconfig.json
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.runtimeconfig.dev.json
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.dll
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\bin\Debug\netcoreapp3.1\Assessment Task Sort.pdb
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.AssemblyInfo.cs
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.dll
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.pdb
+C:\Users\wesle\Desktop\Submissions\Week 5\Anh\Assessment Task Sort\Assessment Task Sort\obj\Debug\netcoreapp3.1\Assessment Task Sort.genruntimeconfig.cache
